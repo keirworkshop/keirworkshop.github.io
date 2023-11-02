@@ -1,5 +1,5 @@
 ---
-name: Dr. Zaiqiao Meng
+name: Dr. Xin Xin
 position: Assistant Professor
 organization: Xin Xin
 img: assets/img/xinxin.jpg
