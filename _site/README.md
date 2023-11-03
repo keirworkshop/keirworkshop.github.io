@@ -12,9 +12,9 @@ Pretrained language models (PLMs) like ChatGPT and GPT4 are reshaping the AI dom
 
 ## Important Dates
 
-Paper Submissions Deadline: January 17, 2024 (11:59 PM, AoE)
-Acceptance Notification: February 17, 2024 (11:59 PM, AoE)
-Workshop Date: March 24, 2024
+- Paper Submissions Deadline: January 10, 2024 (11:59 PM, AoE)
+- Acceptance Notification: February 17, 2024 (11:59 PM, AoE)
+- Workshop Date: March 24, 2024
 
 ## Workshop Organizers:
 
