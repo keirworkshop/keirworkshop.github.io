@@ -2,7 +2,7 @@
 name: Ridho Reinanda
 position: AI Research Scientist
 organization: Bloomberg
-personal-page: https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=de
+personal-page: https://www.linkedin.com/in/ridhoreinanda/
 order: 2
 img: assets/img/Ridho_Reinanda.jpeg
 content-speak: TBD
